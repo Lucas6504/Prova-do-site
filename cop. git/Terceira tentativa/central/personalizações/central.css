@@ -1,0 +1,99 @@
+* {
+    padding: 0px;
+    border: 0px;
+    box-sizing: 0px;
+    margin: 0px;
+}
+
+body {
+    color: white;
+    background-color: black;
+}
+
+.navegação {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 30px;
+    padding-left: 45px;
+    padding-right: 20px;
+    border: solid 2px;
+    width: 100%;
+}
+
+.botsobre {
+    padding: 20px;
+}
+
+.botpneus {
+    padding: 20px;
+}
+
+.botfreio {
+    padding: 20px;
+}
+
+.botsuspensão {
+    padding: 20px;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+section {
+    padding: 16px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+p {
+    padding-left: 30px;
+
+}
+
+img {
+    display: flex;
+    flex-wrap: nowrap;
+    padding-left: 20%;
+    padding-right: 20%;
+    width: 400px;
+    height: 280px;
+    border: 5px black;
+    align-items: center;
+    width: 60%;
+    height: auto;
+}
+
+a {
+    color: red;
+}
+
+.oquee p{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.oagadois{
+    padding: 30px;
+}
+
+footer{
+    height: 100%;
+    text-align: center;
+    padding: 50px;
+    
+}

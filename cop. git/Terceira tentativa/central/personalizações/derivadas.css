@@ -1,0 +1,36 @@
+img{
+    width: 40%;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+p{
+    padding: 20px;
+    border: solid green 3px;
+    color: white;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    padding-left: 10px;
+}
+
+h3{
+    color: white;
+    padding-left: 10px;
+}
+footer{
+    height: 100%;
+    text-align: center;
+    padding: 50px;
+    color: white;
+}
+

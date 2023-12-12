@@ -1,0 +1,25 @@
+p{
+    padding: 20px;
+    border: solid green 3px;
+    color: white;
+    background-color: black;
+}
+
+h1{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+footer{
+    height: 100%;
+    text-align: center;
+    padding: 50px;
+    color: white;
+}
